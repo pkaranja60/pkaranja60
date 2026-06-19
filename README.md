@@ -1,41 +1,98 @@
-<h1 align="center">Hi 👋, I'm Peter Karanja</h1>
-<p align="center">
-  <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-<h3 align="center">A passionate web and mobile developer from Kenya</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="pkaranja60" /> </p>
+# Hi there, I'm Peter Karanja 👋
 
-<p align="center"> <a href="https://twitter.com/60karanjapeter" target="blank"><img src="https://img.shields.io/twitter/follow/60karanjapeter?logo=twitter&style=for-the-badge" alt="60karanjapeter" /></a> </p>
+### Web & Mobile Developer from Kenya 🇰🇪
 
-- 🔭 I’m currently working on **Real Estate listing**
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="coding gif"/>
 
-- 🌱 I’m currently learning **Flutter & TypeScript**
+<img src="https://komarev.com/ghpvc/?username=pkaranja60&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<a href="https://twitter.com/60karanjapeter"><img src="https://img.shields.io/twitter/follow/60karanjapeter?logo=twitter&style=flat&color=1DA1F2" alt="twitter follow"/></a>
 
-- 💬 Ask me about **React Native**
+</div>
 
-- 📫 How to reach me **peterkaranja60@gmail.com**
+<br>
 
-- ⚡ Fun fact **I am a huge fan of Anime**
+## 👨‍💻 About Me
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/60karanjapeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="60karanjapeter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter-karanja-techninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-karanja-techninja" height="30" width="40" /></a>
-<a href="https://instagram.com/peterkaranja60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peterkaranja60" height="30" width="40" /></a>
-</p>
+```yaml
+🔭 Currently building:   Real estate listing platform
+🌱 Currently learning:   CI/CD pipelines with GitHub Actions & Jenkins
+💬 Ask me about:         React Native, Flutter, or setting up CI/CD pipelines
+📫 Reach me at:          peterkaranja60@gmail.com
+⚡ Fun fact:             Huge anime fan 🍥
+```
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkaranja60&layout=compact&theme=dark" alt="pkaranja60" /></p>
+## 🛠️ Tech Stack
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&theme=radical" alt="pkaranja60" /></p>
+**Languages & Frameworks**
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60&" alt="pkaranja60" /></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+**Styling**
 
-# Blog posts
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pkaranja60&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="pkaranja60's GitHub stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkaranja60&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pkaranja60&theme=radical&hide_border=true" alt="GitHub streak stats"/>
+
+</div>
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/60karanjapeter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/peter-karanja-techninja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/peterkaranja60" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:peterkaranja60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+<br>
+
+## ✍️ Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
+<div align="center">
+
+💡 *Thanks for stopping by — feel free to reach out, I'm always happy to talk tech!*
+
+</div>
